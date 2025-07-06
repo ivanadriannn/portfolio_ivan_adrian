@@ -1,5 +1,8 @@
 ## **🌐 Project: Personal Portfolio Landing Page**
 
+🔗 Deployment Link
+🌍 Live Preview: [https://your-portfolio.vercel.app](https://ivanadrian-portfolio.vercel.app/)
+
 ### **📝 Description**
 > A responsive personal portfolio website built as a static landing page.
 > It showcases personal information, skills, projects, experiences, certificates,
